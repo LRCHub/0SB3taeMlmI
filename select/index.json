@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "マテリアル",
+  "base_artist": "おいしくるメロンパン",
+  "createdAt": "2026-03-06T07:13:45.168518Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル(「魔法先生ネギま!」より)",
+      "artist": "ラスマス・フェイバー・プレゼンツ・プラチナ・ジャズ",
+      "has_synced": false,
+      "path": "select/01_ハッピー☆マテリアル(「魔法先生ネギま!」より)_ラスマス・フェイバー・プレゼンツ・プラチナ・ジャズ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル",
+      "artist": "Ma15",
+      "has_synced": false,
+      "path": "select/02_ハッピー☆マテリアル_Ma15.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル",
+      "artist": "麻帆良学園中等部2-A(鳴滝風香・鳴滝史伽・葉加瀬聡美・長谷川千雨・Evangeline.A.K.McDowell)",
+      "has_synced": true,
+      "path": "select/03_ハッピー☆マテリアル_麻帆良学園中等部2-A(鳴滝風香・鳴滝史伽・葉加瀬聡美・長谷川千雨・Evangeline.A.K.McDowell).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル",
+      "artist": "麻帆良学園中等部2-A (相坂さよ, 明石裕奈, 朝倉和美, 綾瀬夕映, 和泉亜子, 大河内アキラ)",
+      "has_synced": true,
+      "path": "select/04_ハッピー☆マテリアル_麻帆良学園中等部2-A_(相坂さよ,_明石裕奈,_朝倉和美,_綾瀬夕映,_和泉亜子,_大河内アキラ).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル リターン",
+      "artist": "麻帆良学園中等部3-A",
+      "has_synced": false,
+      "path": "select/05_ハッピー☆マテリアル_リターン_麻帆良学園中等部3-A.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル",
+      "artist": "ハロー、ハッピーワールド！",
+      "has_synced": true,
+      "path": "select/06_ハッピー☆マテリアル_ハロー、ハッピーワールド!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル(企画賞)",
+      "artist": "宮崎のどか・村上夏美・雪広あやか・四葉五月・Zazie Rainyday",
+      "has_synced": true,
+      "path": "select/07_ハッピー☆マテリアル(企画賞)_宮崎のどか・村上夏美・雪広あやか・四葉五月・Zazie_Rainyday.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル - Cover",
+      "artist": "ハロー、ハッピーワールド!",
+      "has_synced": true,
+      "path": "select/08_ハッピー☆マテリアル_-_Cover_ハロー、ハッピーワールド!.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル",
+      "artist": "麻帆良学園中等部2-A(柿崎美砂・神楽坂明日菜・春日美空・絡繰茶々丸・釘宮円)",
+      "has_synced": true,
+      "path": "select/09_ハッピー☆マテリアル_麻帆良学園中等部2-A(柿崎美砂・神楽坂明日菜・春日美空・絡繰茶々丸・釘宮円).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル (魔法先生ネギま!)",
+      "artist": "高比良純",
+      "has_synced": true,
+      "path": "select/10_ハッピー☆マテリアル_(魔法先生ネギま!)_高比良純.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル（1月度）",
+      "artist": "麻帆良学園中等部2-A(相坂さよ、明石裕奈、朝倉和美、綾瀬夕映、和泉亜子、大河内アキラ)",
+      "has_synced": true,
+      "path": "select/11_ハッピー☆マテリアル(1月度)_麻帆良学園中等部2-A(相坂さよ、明石裕奈、朝倉和美、綾瀬夕映、和泉亜子、大河内アキラ).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル",
+      "artist": "EXIT TUNES",
+      "has_synced": false,
+      "path": "select/12_ハッピー☆マテリアル_EXIT_TUNES.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル（3月度）",
+      "artist": "麻帆良学園中等部2-A(古菲 近衛木乃香 早乙女ハルナ 桜咲刹那 佐々木まき絵)",
+      "has_synced": true,
+      "path": "select/13_ハッピー☆マテリアル(3月度)_麻帆良学園中等部2-A(古菲_近衛木乃香_早乙女ハルナ_桜咲刹那_佐々木まき絵).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル",
+      "artist": "宮崎のどか・村上夏美・雪広あやか・四葉五月・Zazie Rainyday",
+      "has_synced": true,
+      "path": "select/14_ハッピー☆マテリアル_宮崎のどか・村上夏美・雪広あやか・四葉五月・Zazie_Rainyday.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル",
+      "artist": "Hello, Happy World!",
+      "has_synced": true,
+      "path": "select/15_ハッピー☆マテリアル_Hello,_Happy_World!.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル",
+      "artist": "IOSYS",
+      "has_synced": true,
+      "path": "select/16_ハッピー☆マテリアル_IOSYS.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ハッピー☆マテリアル",
+      "artist": "麻帆良学園中等部2年A組",
+      "has_synced": true,
+      "path": "select/17_ハッピー☆マテリアル_麻帆良学園中等部2年A組.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マテリアル",
+      "artist": "おいしくるメロンパン",
+      "has_synced": false,
+      "path": "select/pl_01_マテリアル_おいしくるメロンパン.txt"
+    }
+  ]
+}
